@@ -1,3 +1,4 @@
 [2026-05-29 17:29:31] <189>21: *May 29 11:59:29.951: %LINK-5-CHANGED: Interface GigabitEthernet1/0, changed state to administratively down
 [2026-05-29 17:29:36] <189>22: *May 29 11:59:30.951: %LINEPROTO-5-UPDOWN: Line protocol on Interface GigabitEthernet1/0, changed state to down
 [2026-05-29 18:20:29] <189>29: *May 29 12:50:27.199: %LINK-5-CHANGED: Interface GigabitEthernet1/0, changed state to administratively down
+[2026-05-29 18:20:31] <189>30: *May 29 12:50:28.199: %LINEPROTO-5-UPDOWN: Line protocol on Interface GigabitEthernet1/0, changed state to down
