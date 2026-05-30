@@ -12,3 +12,4 @@
 [2026-05-29 20:06:37] <189>41: R2: *May 29 14:35:39.607: %LINEPROTO-5-UPDOWN: Line protocol on Interface FastEthernet0/0, changed state to up
 [2026-05-29 20:07:23] <189>44: R2: *May 29 14:36:31.567: %SYS-5-CONFIG_I: Configured from console by console
 [2026-05-29 20:07:34] <189>32: R1: *May 29 14:36:52.111: %SYS-5-CONFIG_I: Configured from console by console
+[2026-05-30 18:11:17] <189>16: R2: *May 30 12:41:17.115: %LINEPROTO-5-UPDOWN: Line protocol on Interface Loopback0, changed state to up
