@@ -73,3 +73,4 @@
 [2026-05-31 19:38:46] <187>52: R2: *May 31 14:08:45.866: %LINK-3-UPDOWN: Interface GigabitEthernet1/0, changed state to up
 [2026-05-31 19:38:48] <189>53: R2: *May 31 14:08:46.194: %SYS-5-CONFIG_I: Configured from console by console
 [2026-05-31 19:38:50] <189>54: R2: *May 31 14:08:46.866: %LINEPROTO-5-UPDOWN: Line protocol on Interface GigabitEthernet1/0, changed state to up
+[2026-05-31 20:00:37] <189>55: R2: *May 31 14:30:35.906: %LINK-5-CHANGED: Interface GigabitEthernet1/0, changed state to administratively down
