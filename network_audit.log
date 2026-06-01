@@ -252,3 +252,4 @@
 [2026-06-01 17:26:15] <190>70: R2: *Jun  1 11:56:13.919: %SYS-6-LOGGINGHOST_STARTSTOP: Logging to host 192.168.1.36 port 514 started - CLI initiated
 [2026-06-01 17:26:17] <189>71: R2: *Jun  1 11:56:15.255: %SYS-5-CONFIG_I: Configured from console by console
 [2026-06-01 17:53:57] <189>72: R2: *Jun  1 12:23:56.455: %SYS-5-CONFIG_I: Configured from console by console
+[2026-06-01 18:00:02] <191>73: R2: *Jun  1 12:30:01.403: IPSLA-OPER_TRACE:OPER:10 Timeout - destAddr=8.8.8.9, sAddr=192.168.122.232
