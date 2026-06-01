@@ -254,3 +254,4 @@
 [2026-06-01 17:53:57] <189>72: R2: *Jun  1 12:23:56.455: %SYS-5-CONFIG_I: Configured from console by console
 [2026-06-01 18:00:02] <191>73: R2: *Jun  1 12:30:01.403: IPSLA-OPER_TRACE:OPER:10 Timeout - destAddr=8.8.8.9, sAddr=192.168.122.232
 [2026-06-01 18:00:05] <191>74: R2: *Jun  1 12:30:01.403: IPSLA-INFRA_TRACE:OPER:10 Updating result
+[2026-06-01 18:00:07] <191>75: R2: *Jun  1 12:30:06.403: IPSLA-INFRA_TRACE:OPER:10 slaSchedulerEventWakeup
